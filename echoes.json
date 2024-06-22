@@ -1,0 +1,603 @@
+[
+    {
+        "name": "Aero Predator",
+        "cost": "1",
+        "element": "Aero",
+        "sonatas": [
+            "Void Thunder",
+            "Sierra Gale"
+        ]
+    },
+    {
+        "name": "Altered Clang Bang",
+        "cost": "1",
+        "element": "Glacio",
+        "sonatas": [
+            "Celestial Light",
+            "Freezing Frost"
+        ]
+    },
+    {
+        "name": "Altered Lightcrusher",
+        "cost": "3",
+        "element": "Spectro",
+        "sonatas": [
+            "Sun-sinking Eclipse"
+        ]
+    },
+    {
+        "name": "Autopuppet Scout",
+        "cost": "3",
+        "element": "Glacio",
+        "sonatas": [
+            "Celestial Light",
+            "Freezing Frost"
+        ]
+    },
+    {
+        "name": "Bell-Borne Geochelone",
+        "cost": "4",
+        "element": "Glacio",
+        "sonatas": [
+            "Moonlit Clouds",
+            "Rejuvenating Glow"
+        ]
+    },
+    {
+        "name": "Chaserazor",
+        "cost": "3",
+        "element": "Aero",
+        "sonatas": [
+            "Moonlit Clouds",
+            "Sierra Gale"
+        ]
+    },
+    {
+        "name": "Chasm Guardian",
+        "cost": "3",
+        "element": "Havoc",
+        "sonatas": [
+            "Lingering Tunes",
+            "Rejuvenating Glow"
+        ]
+    },
+    {
+        "name": "Chirpuff",
+        "cost": "1",
+        "element": "Aero",
+        "sonatas": [
+            "Sun-sinking Eclipse",
+            "Sierra Gale"
+        ]
+    },
+    {
+        "name": "Clang Bang",
+        "cost": "1",
+        "element": "Glacio",
+        "sonatas": [
+            "Celestial Light",
+            "Freezing Frost"
+        ]
+    },
+    {
+        "name": "Crownless",
+        "cost": "4",
+        "element": "Havoc",
+        "sonatas": [
+            "Sun-sinking Eclipse"
+        ]
+    },
+    {
+        "name": "Cruisewing",
+        "cost": "1",
+        "element": "Spectro",
+        "sonatas": [
+            "Rejuvenating Glow",
+            "Moonlit Clouds",
+            "Celestial Light"
+        ]
+    },
+    {
+        "name": "Cyan-Feathered Heron",
+        "cost": "3",
+        "element": "Aero",
+        "sonatas": [
+            "Sierra Gale",
+            "Celestial Light"
+        ]
+    },
+    {
+        "name": "Diamondclaw",
+        "cost": "1",
+        "element": null,
+        "sonatas": [
+            "Moonlit Clouds",
+            "Lingering Tunes"
+        ]
+    },
+    {
+        "name": "Dreamless",
+        "cost": "4",
+        "element": "Havoc",
+        "sonatas": [
+            "Sun-sinking Eclipse"
+        ]
+    },
+    {
+        "name": "Dwarf Cassowary",
+        "cost": "1",
+        "element": null,
+        "sonatas": [
+            "Sierra Gale",
+            "Rejuvenating Glow"
+        ]
+    },
+    {
+        "name": "Electro Predator",
+        "cost": "1",
+        "element": "Electro",
+        "sonatas": [
+            "Molten Rift",
+            "Void Thunder"
+        ]
+    },
+    {
+        "name": "Excarat",
+        "cost": "1",
+        "element": "Havoc",
+        "sonatas": [
+            "Freezing Frost",
+            "Sun-sinking Eclipse"
+        ]
+    },
+    {
+        "name": "Feilian Beringal",
+        "cost": "4",
+        "element": "Aero",
+        "sonatas": [
+            "Sierra Gale"
+        ]
+    },
+    {
+        "name": "Firebug",
+        "cost": "1",
+        "element": "Fusion",
+        "sonatas": [
+            "Lingering Tunes",
+            "Molten Rift"
+        ]
+    },
+    {
+        "name": "Fission Junrock",
+        "cost": "1",
+        "element": null,
+        "sonatas": [
+            "Moonlit Clouds",
+            "Void Thunder",
+            "Rejuvenating Glow"
+        ]
+    },
+    {
+        "name": "Flautist",
+        "cost": "3",
+        "element": "Electro",
+        "sonatas": [
+            "Lingering Tunes",
+            "Void Thunder"
+        ]
+    },
+    {
+        "name": "Fusion Dreadmane",
+        "cost": "1",
+        "element": "Fusion",
+        "sonatas": [
+            "Rejuvenating Glow",
+            "Molten Rift"
+        ]
+    },
+    {
+        "name": "Fusion Prism",
+        "cost": "1",
+        "element": "Fusion",
+        "sonatas": [
+            "Freezing Frost",
+            "Lingering Tunes",
+            "Molten Rift"
+        ]
+    },
+    {
+        "name": "Fusion Warrior",
+        "cost": "1",
+        "element": "Fusion",
+        "sonatas": [
+            "Sierra Gale",
+            "Void Thunder",
+            "Molten Rift"
+        ]
+    },
+    {
+        "name": "Geohide Saurian",
+        "cost": "3",
+        "element": "Fusion",
+        "sonatas": [
+            "Moonlit Clouds",
+            "Molten Rift"
+        ]
+    },
+    {
+        "name": "Glacio Dreadmane",
+        "cost": "3",
+        "element": "Glacio",
+        "sonatas": [
+            "Moonlit Clouds",
+            "Freezing Frost"
+        ]
+    },
+    {
+        "name": "Glacio Predator",
+        "cost": "1",
+        "element": "Glacio",
+        "sonatas": [
+            "Celestial Light",
+            "Freezing Frost"
+        ]
+    },
+    {
+        "name": "Glacio Prism",
+        "cost": "1",
+        "element": "Glacio",
+        "sonatas": [
+            "Sun-sinking Eclipse",
+            "Moonlit Clouds",
+            "Freezing Frost"
+        ]
+    },
+    {
+        "name": "Gulpuff",
+        "cost": "1",
+        "element": "Glacio",
+        "sonatas": [
+            "Celestial Light",
+            "Freezing Frost"
+        ]
+    },
+    {
+        "name": "Havoc Dreadmane",
+        "cost": "3",
+        "element": "Havoc",
+        "sonatas": [
+            "Molten Rift",
+            "Sun-sinking Eclipse"
+        ]
+    },
+    {
+        "name": "Havoc Prism",
+        "cost": "1",
+        "element": "Havoc",
+        "sonatas": [
+            "Void Thunder",
+            "Celestial Light",
+            "Sun-sinking Eclipse"
+        ]
+    },
+    {
+        "name": "Havoc Warrior",
+        "cost": "1",
+        "element": "Havoc",
+        "sonatas": [
+            "Celestial Light",
+            "Sun-sinking Eclipse"
+        ]
+    },
+    {
+        "name": "Hoartoise",
+        "cost": "1",
+        "element": "Glacio",
+        "sonatas": [
+            "Celestial Light",
+            "Freezing Frost"
+        ]
+    },
+    {
+        "name": "Hoochief",
+        "cost": "3",
+        "element": "Aero",
+        "sonatas": [
+            "Rejuvenating Glow",
+            "Sierra Gale"
+        ]
+    },
+    {
+        "name": "Hooscamp",
+        "cost": "1",
+        "element": "Aero",
+        "sonatas": [
+            "Lingering Tunes",
+            "Sierra Gale"
+        ]
+    },
+    {
+        "name": "Impermanence Heron",
+        "cost": "4",
+        "element": "Havoc",
+        "sonatas": [
+            "Moonlit Clouds"
+        ]
+    },
+    {
+        "name": "Inferno Rider",
+        "cost": "4",
+        "element": "Fusion",
+        "sonatas": [
+            "Molten Rift"
+        ]
+    },
+    {
+        "name": "Jué",
+        "cost": "4",
+        "element": "Spectro",
+        "sonatas": [
+            "Celestial Light"
+        ]
+    },
+    {
+        "name": "Lampylumen Myriad",
+        "cost": "4",
+        "element": "Glacio",
+        "sonatas": [
+            "Freezing Frost"
+        ]
+    },
+    {
+        "name": "Lightcrusher",
+        "cost": "3",
+        "element": "Spectro",
+        "sonatas": [
+            "Celestial Light"
+        ]
+    },
+    {
+        "name": "Lumiscale Construct",
+        "cost": "3",
+        "element": "Glacio",
+        "sonatas": [
+            "Void Thunder",
+            "Freezing Frost"
+        ]
+    },
+    {
+        "name": "Mech Abomination",
+        "cost": "4",
+        "element": "Electro",
+        "sonatas": [
+            "Lingering Tunes"
+        ]
+    },
+    {
+        "name": "Mourning Aix",
+        "cost": "4",
+        "element": "Spectro",
+        "sonatas": [
+            "Celestial Light"
+        ]
+    },
+    {
+        "name": "Phantom: Feilian Beringal",
+        "cost": "4",
+        "element": "Aero",
+        "sonatas": [
+            "Sierra Gale"
+        ]
+    },
+    {
+        "name": "Phantom: Hoartoise",
+        "cost": "1",
+        "element": "Glacio",
+        "sonatas": [
+            "Celestial Light",
+            "Freezing Frost"
+        ]
+    },
+    {
+        "name": "Phantom: Impermanence Heron",
+        "cost": "4",
+        "element": "Havoc",
+        "sonatas": [
+            "Moonlit Clouds"
+        ]
+    },
+    {
+        "name": "Phantom: Mourning Aix",
+        "cost": "4",
+        "element": "Spectro",
+        "sonatas": [
+            "Celestial Light"
+        ]
+    },
+    {
+        "name": "Phantom: Rocksteady Guardian",
+        "cost": "3",
+        "element": "Spectro",
+        "sonatas": [
+            "Rejuvenating Glow",
+            "Celestial Light"
+        ]
+    },
+    {
+        "name": "Phantom: Thundering Mephis",
+        "cost": "4",
+        "element": "Electro",
+        "sonatas": [
+            "Void Thunder"
+        ]
+    },
+    {
+        "name": "Rocksteady Guardian",
+        "cost": "3",
+        "element": "Spectro",
+        "sonatas": [
+            "Rejuvenating Glow",
+            "Celestial Light"
+        ]
+    },
+    {
+        "name": "Roseshroom",
+        "cost": "3",
+        "element": "Havoc",
+        "sonatas": [
+            "Freezing Frost",
+            "Sun-sinking Eclipse"
+        ]
+    },
+    {
+        "name": "Sabyr Boar",
+        "cost": "1",
+        "element": null,
+        "sonatas": [
+            "Moonlit Clouds",
+            "Sierra Gale",
+            "Freezing Frost"
+        ]
+    },
+    {
+        "name": "Snip Snap",
+        "cost": "1",
+        "element": "Fusion",
+        "sonatas": [
+            "Lingering Tunes",
+            "Rejuvenating Glow",
+            "Molten Rift"
+        ]
+    },
+    {
+        "name": "Spearback",
+        "cost": "3",
+        "element": null,
+        "sonatas": [
+            "Lingering Tunes",
+            "Moonlit Clouds"
+        ]
+    },
+    {
+        "name": "Spectro Prism",
+        "cost": "1",
+        "element": "Spectro",
+        "sonatas": [
+            "Molten Rift",
+            "Void Thunder",
+            "Celestial Light"
+        ]
+    },
+    {
+        "name": "Stonewall Bracer",
+        "cost": "3",
+        "element": null,
+        "sonatas": [
+            "Rejuvenating Glow",
+            "Moonlit Clouds"
+        ]
+    },
+    {
+        "name": "Tambourinist",
+        "cost": "3",
+        "element": "Havoc",
+        "sonatas": [
+            "Freezing Frost",
+            "Sun-sinking Eclipse"
+        ]
+    },
+    {
+        "name": "Tempest Mephis",
+        "cost": "4",
+        "element": "Electro",
+        "sonatas": [
+            "Void Thunder"
+        ]
+    },
+    {
+        "name": "Thundering Mephis",
+        "cost": "4",
+        "element": "Electro",
+        "sonatas": [
+            "Void Thunder"
+        ]
+    },
+    {
+        "name": "Tick Tack",
+        "cost": "1",
+        "element": "Havoc",
+        "sonatas": [
+            "Lingering Tunes",
+            "Rejuvenating Glow",
+            "Sun-sinking Eclipse"
+        ]
+    },
+    {
+        "name": "Traffic Illuminator",
+        "cost": "1",
+        "element": null,
+        "sonatas": [
+            "Void Thunder",
+            "Sierra Gale",
+            "Molten Rift"
+        ]
+    },
+    {
+        "name": "Vanguard Junrock",
+        "cost": "1",
+        "element": null,
+        "sonatas": [
+            "Rejuvenating Glow",
+            "Void Thunder",
+            "Lingering Tunes"
+        ]
+    },
+    {
+        "name": "Violet-Feathered Heron",
+        "cost": "3",
+        "element": "Electro",
+        "sonatas": [
+            "Molten Rift",
+            "Void Thunder"
+        ]
+    },
+    {
+        "name": "Whiff Whaff",
+        "cost": "1",
+        "element": "Aero",
+        "sonatas": [
+            "Rejuvenating Glow",
+            "Moonlit Clouds",
+            "Sierra Gale"
+        ]
+    },
+    {
+        "name": "Young Geohide Saurian",
+        "cost": "1",
+        "element": "Fusion",
+        "sonatas": [
+            "Lingering Tunes",
+            "Void Thunder",
+            "Molten Rift"
+        ]
+    },
+    {
+        "name": "Young Roseshroom",
+        "cost": "1",
+        "element": "Havoc",
+        "sonatas": [
+            "Sierra Gale",
+            "Sun-sinking Eclipse"
+        ]
+    },
+    {
+        "name": "Zig Zag",
+        "cost": "1",
+        "element": "Spectro",
+        "sonatas": [
+            "Moonlit Clouds",
+            "Lingering Tunes",
+            "Celestial Light"
+        ]
+    }
+]
