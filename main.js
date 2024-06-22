@@ -22,8 +22,6 @@ const getHtmlData = async () => {
             })
         })
 
-        // console.log(echoesHTML)
-
         const results = [];
 
         for (const html of echoesHTML) {
